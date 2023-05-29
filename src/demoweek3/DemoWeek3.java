@@ -6,6 +6,7 @@ package demoweek3;
 
 /**
  *This is for demontration for showing fetch and merge
+ *Demontration of pull
  * @author Thai Nguyen
  */
 public class DemoWeek3 {
